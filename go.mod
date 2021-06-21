@@ -1,1 +1,1 @@
-module "simpleWebApp"
+module github.com/Sereggan/simpleWebApp
