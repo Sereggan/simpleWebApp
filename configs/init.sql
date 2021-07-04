@@ -1,1 +1,2 @@
-CREATE DATABASE restapi_dev
+CREATE
+DATABASE restapi_dev
