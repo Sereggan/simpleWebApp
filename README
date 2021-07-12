@@ -2,3 +2,4 @@ migrations
 migrate -path migrations -database "postgres://localhost/restapi_test?sslmode=disable&user=user1&password=password" up
 migrate -path migrations -database "postgres://localhost/restapi_dev?sslmode=disable&user=user1&password=password" up
 
+[![Go](https://github.com/Sereggan/simpleWebApp/actions/workflows/go.yml/badge.svg?branch=master)](https://github.com/Sereggan/simpleWebApp/actions/workflows/go.yml)
